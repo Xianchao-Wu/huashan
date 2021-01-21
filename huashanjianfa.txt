@@ -1,0 +1,18 @@
+step 1. huashan jianfa tianxia diyi
+
+123 append something to the existing line here! in huashan.wxc
+
+
+this is linghuchong!! edited by yuebuqun -> linghuchong shi sb!
+this is linghuchong!! edited by linghuchong again... check merge error
+
+
+
+update by linghuchong, again!
+
+
+
+some updates...
+小葵花课堂开奖了！来自东方不败！
+
+added and updated in branch hot_fix
