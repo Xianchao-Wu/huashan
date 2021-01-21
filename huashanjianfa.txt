@@ -1,6 +1,7 @@
 step 1. huashan jianfa tianxia diyi
 
 123 append something to the existing line here! in huashan.wxc
+123 the old remote origin/master's content
 
 
 this is linghuchong!! edited by yuebuqun -> linghuchong shi sb!
